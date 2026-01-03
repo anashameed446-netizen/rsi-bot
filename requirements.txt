@@ -1,9 +1,0 @@
-python-binance==1.0.19
-pandas>=2.3.3
-numpy>=2.3.4
-flask==3.0.0
-flask-socketio==5.3.6
-python-socketio==5.10.0
-python-engineio==4.9.0
-python-dotenv==1.0.0
-
